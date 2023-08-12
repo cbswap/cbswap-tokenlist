@@ -1,0 +1,26 @@
+{
+    "name": "Base",
+    "logoURI": "https://raw.githubusercontent.com/cbswapio/cbswap-tokenlist/main/base.svg",
+    "keywords": [
+      "scaling",
+      "layer2",
+      "infrastructure"
+    ],
+    "timestamp": "2023-03-013T17:01:15.913Z",
+    "tokens": [
+      {
+        "chainId": 84531,
+        "address": "0x4200000000000000000000000000000000000006",
+        "name": "Wrapped Ether",
+        "symbol": "WETH",
+        "decimals": 18,
+        "logoURI": "https://raw.githubusercontent.com/cbswapio/cbswap-tokenlist/main/base.svg",
+        "extensions": {}
+      }
+    ],
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
+    }
+  }
